@@ -1,4 +1,2 @@
-# C-Primer
-# C-Primer
-# C-Primer
-# C-Primer
+# C-Primer Project for Operating Systems
+
